@@ -29,4 +29,4 @@ https://github.com/shivanipatel7/CapstoneProject_Coursera/blob/main/CoronaVirus%
 ![alt text](https://github.com/shivanipatel7/CapstoneProject_Coursera/blob/main/results.png?raw=true)
 
 ### Conclusion: 
-We can conclude that venues are not the best way to cluster corona-virus outbreak cities in the US as clustering cities based on venue categories as this resulted in overfitting. 
+We can conclude that venues are not the best way to cluster corona-virus outbreak cities in the US as clustering cities based on venue categories resulted in overfitting. 
